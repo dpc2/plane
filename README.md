@@ -1,4 +1,4 @@
 # plane
 a simple opengl game
 
-use 'up'  'dowm'  'left'  'right' to control
+use 'up'  'down'  'left'  'right' to control
